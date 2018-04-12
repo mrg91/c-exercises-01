@@ -7,6 +7,10 @@ Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "HelloWorld2", "HelloWorld2\HelloWorld2.cproj", "{13C6B992-604C-447A-80AE-4B68C9072041}"
 EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "HelloWorld3", "HelloWorld3\HelloWorld3.cproj", "{5E6C4B12-8132-4E10-B9A7-FFD72AB64EDA}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "HelloWorld4", "HelloWorld4\HelloWorld4.cproj", "{91D21759-E720-4E81-AA32-E761D7FE4F76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AVR = Debug|AVR
@@ -21,6 +25,14 @@ Global
 		{13C6B992-604C-447A-80AE-4B68C9072041}.Debug|AVR.Build.0 = Debug|AVR
 		{13C6B992-604C-447A-80AE-4B68C9072041}.Release|AVR.ActiveCfg = Release|AVR
 		{13C6B992-604C-447A-80AE-4B68C9072041}.Release|AVR.Build.0 = Release|AVR
+		{5E6C4B12-8132-4E10-B9A7-FFD72AB64EDA}.Debug|AVR.ActiveCfg = Debug|AVR
+		{5E6C4B12-8132-4E10-B9A7-FFD72AB64EDA}.Debug|AVR.Build.0 = Debug|AVR
+		{5E6C4B12-8132-4E10-B9A7-FFD72AB64EDA}.Release|AVR.ActiveCfg = Release|AVR
+		{5E6C4B12-8132-4E10-B9A7-FFD72AB64EDA}.Release|AVR.Build.0 = Release|AVR
+		{91D21759-E720-4E81-AA32-E761D7FE4F76}.Debug|AVR.ActiveCfg = Debug|AVR
+		{91D21759-E720-4E81-AA32-E761D7FE4F76}.Debug|AVR.Build.0 = Debug|AVR
+		{91D21759-E720-4E81-AA32-E761D7FE4F76}.Release|AVR.ActiveCfg = Release|AVR
+		{91D21759-E720-4E81-AA32-E761D7FE4F76}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
